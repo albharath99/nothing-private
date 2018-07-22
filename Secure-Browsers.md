@@ -4,3 +4,4 @@ Following are the browsers that doesn't allows browser fingerpinting. If you are
 | Browser | Platform | Version | Reported By |
 | ------------- | ------------- | ------------- | ------------- |
 | [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) [(See notes)](firefox_quantum_notes.md) | Windows/Linux/Mac | 57.0.4+ | [CrisMen](https://github.com/CrisMen) |
+https://www.torproject.org/projects/torbrowser.html.en | Mac OS, Windows,Linux | | https://github.com/albharath99/
